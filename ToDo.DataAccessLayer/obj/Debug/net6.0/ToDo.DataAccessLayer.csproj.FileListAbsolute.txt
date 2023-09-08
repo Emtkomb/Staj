@@ -1,0 +1,17 @@
+C:\Users\alier\source\repos\staj\TodoApi\ToDo.DataAccessLayer\bin\Debug\net6.0\ToDo.DataAccessLayer.deps.json
+C:\Users\alier\source\repos\staj\TodoApi\ToDo.DataAccessLayer\bin\Debug\net6.0\ToDo.DataAccessLayer.runtimeconfig.json
+C:\Users\alier\source\repos\staj\TodoApi\ToDo.DataAccessLayer\bin\Debug\net6.0\ToDo.DataAccessLayer.dll
+C:\Users\alier\source\repos\staj\TodoApi\ToDo.DataAccessLayer\bin\Debug\net6.0\ToDo.DataAccessLayer.pdb
+C:\Users\alier\source\repos\staj\TodoApi\ToDo.DataAccessLayer\bin\Debug\net6.0\ToDo.EntityLayer.dll
+C:\Users\alier\source\repos\staj\TodoApi\ToDo.DataAccessLayer\bin\Debug\net6.0\ToDo.EntityLayer.pdb
+C:\Users\alier\source\repos\staj\TodoApi\ToDo.DataAccessLayer\obj\Debug\net6.0\ToDo.DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\alier\source\repos\staj\TodoApi\ToDo.DataAccessLayer\obj\Debug\net6.0\ToDo.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alier\source\repos\staj\TodoApi\ToDo.DataAccessLayer\obj\Debug\net6.0\ToDo.DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\alier\source\repos\staj\TodoApi\ToDo.DataAccessLayer\obj\Debug\net6.0\ToDo.DataAccessLayer.AssemblyInfo.cs
+C:\Users\alier\source\repos\staj\TodoApi\ToDo.DataAccessLayer\obj\Debug\net6.0\ToDo.DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\alier\source\repos\staj\TodoApi\ToDo.DataAccessLayer\obj\Debug\net6.0\ToDo.DataAccessLayer.csproj.CopyComplete
+C:\Users\alier\source\repos\staj\TodoApi\ToDo.DataAccessLayer\obj\Debug\net6.0\ToDo.DataAccessLayer.dll
+C:\Users\alier\source\repos\staj\TodoApi\ToDo.DataAccessLayer\obj\Debug\net6.0\refint\ToDo.DataAccessLayer.dll
+C:\Users\alier\source\repos\staj\TodoApi\ToDo.DataAccessLayer\obj\Debug\net6.0\ToDo.DataAccessLayer.pdb
+C:\Users\alier\source\repos\staj\TodoApi\ToDo.DataAccessLayer\obj\Debug\net6.0\ToDo.DataAccessLayer.genruntimeconfig.cache
+C:\Users\alier\source\repos\staj\TodoApi\ToDo.DataAccessLayer\obj\Debug\net6.0\ref\ToDo.DataAccessLayer.dll
