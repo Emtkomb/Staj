@@ -1,0 +1,14 @@
+C:\Users\alier\source\repos\staj\TodoApi\ToDo.EntityLayer\bin\Debug\net6.0\ToDo.EntityLayer.deps.json
+C:\Users\alier\source\repos\staj\TodoApi\ToDo.EntityLayer\bin\Debug\net6.0\ToDo.EntityLayer.runtimeconfig.json
+C:\Users\alier\source\repos\staj\TodoApi\ToDo.EntityLayer\bin\Debug\net6.0\ToDo.EntityLayer.dll
+C:\Users\alier\source\repos\staj\TodoApi\ToDo.EntityLayer\bin\Debug\net6.0\ToDo.EntityLayer.pdb
+C:\Users\alier\source\repos\staj\TodoApi\ToDo.EntityLayer\obj\Debug\net6.0\ToDo.EntityLayer.csproj.AssemblyReference.cache
+C:\Users\alier\source\repos\staj\TodoApi\ToDo.EntityLayer\obj\Debug\net6.0\ToDo.EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alier\source\repos\staj\TodoApi\ToDo.EntityLayer\obj\Debug\net6.0\ToDo.EntityLayer.AssemblyInfoInputs.cache
+C:\Users\alier\source\repos\staj\TodoApi\ToDo.EntityLayer\obj\Debug\net6.0\ToDo.EntityLayer.AssemblyInfo.cs
+C:\Users\alier\source\repos\staj\TodoApi\ToDo.EntityLayer\obj\Debug\net6.0\ToDo.EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\alier\source\repos\staj\TodoApi\ToDo.EntityLayer\obj\Debug\net6.0\ToDo.EntityLayer.dll
+C:\Users\alier\source\repos\staj\TodoApi\ToDo.EntityLayer\obj\Debug\net6.0\refint\ToDo.EntityLayer.dll
+C:\Users\alier\source\repos\staj\TodoApi\ToDo.EntityLayer\obj\Debug\net6.0\ToDo.EntityLayer.pdb
+C:\Users\alier\source\repos\staj\TodoApi\ToDo.EntityLayer\obj\Debug\net6.0\ToDo.EntityLayer.genruntimeconfig.cache
+C:\Users\alier\source\repos\staj\TodoApi\ToDo.EntityLayer\obj\Debug\net6.0\ref\ToDo.EntityLayer.dll
