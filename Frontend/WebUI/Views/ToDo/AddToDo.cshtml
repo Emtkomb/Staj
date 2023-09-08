@@ -1,0 +1,22 @@
+﻿@model CreateToDoDto
+
+@{
+    ViewData["Title"] = "AddToDo";
+    Layout = "~/Views/AdminLayoutController1/_AdminLayout.cshtml";
+}
+
+<form method="post">
+    <label>İsim</label>
+    <input type="text" asp-for="userName" class="form-control" />
+    <span asp-validation-for="userName" class="text-danger"></span>
+    <br />
+    <label>ToDo</label>
+    <input type="textarea" asp-for="Todo" class="form-control" />
+    <span asp-validation-for="Todo" class="text-danger"></span>
+    <br />
+
+    <button class="btn btn-primary">ToDo Ekle</button>
+
+</form>
+
+

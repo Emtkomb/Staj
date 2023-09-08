@@ -1,0 +1,20 @@
+﻿@model WebUI.Models.Role.UpdateRoleViewModel
+@{
+    ViewData["Title"] = "UpdateRole";
+    Layout = "~/Views/AdminLayoutController1/_AdminLayout.cshtml";
+}
+
+<form method="post">
+
+  <input type="hidden" asp-for="RoleID" />
+    <label>Rol Adı</label>
+    <input type="text" asp-for="RoleName" class="form-control" />
+    <br />
+    
+
+    <button class="btn btn-outline-success">Rol Güncelle</button>
+    
+  
+
+
+</form>

@@ -1,0 +1,17 @@
+﻿@model WebUI.Models.Role.AddRoleViewModel
+@{
+    ViewData["Title"] = "AddRole";
+    Layout = "~/Views/AdminLayoutController1/_AdminLayout.cshtml";
+}
+
+<form method="post">
+    <label>Rol Adı</label>
+    <input type="text" asp-for="RoleName" class="form-control" />
+   
+    <br />
+   
+    <button class="btn btn-primary">Role Ekle</button>
+
+</form>
+
+

@@ -1,0 +1,32 @@
+﻿@model List<ToDo.EntityLayer.Concrete.AppUser>
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/AdminLayoutController1/_AdminLayout.cshtml";
+}
+
+
+<div class="col-lg-12">
+    <div class="active-member">
+        <div class="table-responsive">
+            <table class="table table-xs mb-0">
+                <thead>
+                    <tr>
+                        <th>Kullanıcı</th>
+                        <th>Rol Ata</th>
+                       
+                </thead>
+                <tbody>
+
+                    @foreach (var item in Model)
+                    {
+                        <tr>
+                            <td>@item.Name</td>
+                            <td><a href="/RoleAssign/AssignRole/@item.Id" class="btn btn-warning">Rol Ata</a></td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
+

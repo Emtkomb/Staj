@@ -1,0 +1,57 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html lang="en">
+
+    @await Html.PartialAsync("/Views/AdminLayoutController1/HeadPartial.cshtml")
+
+<body>
+
+
+     @await Html.PartialAsync("/Views/AdminLayoutController1/HeaderPartial.cshtml")
+    <br />
+    <section  class="d-flex align-items-center">
+     <div class="container">
+
+       <div class="row">
+        <div class="col-lg-6 pt-5 pt-lg-0 order-2 order-lg-1 d-flex flex-column justify-content-center">
+          
+          <div data-aos="fade-up" data-aos-delay="300">
+                    @RenderBody()
+                </div>
+        </div>
+               
+        <div class="col-lg-6 order-1 order-lg-2 hero-img" data-aos="fade-left" data-aos-delay="300">
+                
+          <img src="~/Vesperr/assets/img/hero-img.png" class="img-fluid animated" alt="">
+          @RenderBody()
+          
+        </div>
+      </div>
+
+      </div>
+    </section>
+
+    @await Html.PartialAsync("/Views/AdminLayoutController1/FooterPartial.cshtml")
+
+
+    @await Html.PartialAsync("/Views/AdminLayoutController1/ScriptPartial.cshtml")
+
+</body>
+
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
